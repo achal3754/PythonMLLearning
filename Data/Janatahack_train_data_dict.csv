@@ -1,0 +1,19 @@
+Column;Description;;
+case_id;Case_ID registered in Hospital;;
+Hospital_code;Unique code for the Hospital;;
+Hospital_type_code;Unique code for the type of Hospital;;
+City_Code_Hospital;City Code of the Hospital;;
+Hospital_region_code;Region Code of the Hospital;;
+Available Extra Rooms in Hospital;Number of Extra rooms available in the Hospital;Age;Code
+Department;Department overlooking the case;0-10;1
+Ward_Type;Code for the Ward type;11-20;2
+Ward_Facility_Code;Code for the Ward Facility;21-30;3
+Bed Grade;Condition of Bed in the Ward;31-40;4
+patientid;Unique Patient Id;41-50;5
+City_Code_Patient;City Code for the patient;51-60;6
+Type of Admission;Admission Type registered by the Hospital;61-70;7
+Severity of Illness;Severity of the illness recorded at the time of admission;71-80;8
+Visitors with Patient;Number of Visitors with the patient;81-90;9
+Age;Age of the patient;;
+Admission_Deposit;Deposit at the Admission Time;;
+Stay;Stay Days by the patient;;
