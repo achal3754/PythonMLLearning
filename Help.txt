@@ -1,0 +1,4 @@
+1. Install Python development enviornment
+2. Install GitBash 
+3. from Git Bash command type:
+git clone https://github.com/achal3754/PythonMLLearning.git
